@@ -8,4 +8,8 @@ public class MyClass {
 
     //Version v3
     public String string3 = "Bu da cok daha baska bir string'dir.";
+
+    //Techpro branch, version t2
+    public String string5 = "Bu techpro branch'inde olusturulmus baska bir string'dir.";
+
 }
