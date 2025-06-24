@@ -21,9 +21,9 @@ public class MyClass {
     public String string7 = "tarabya";
 
     //Techpro branch, version t3
-    public String string7 = "Hangi string oldugunun hesabani yapamadim.";
+    public String string8 = "Hangi string oldugunun hesabani yapamadim.";
 
 
     //Techpro branch, version t4
-    public String string8 = "Dar geldi ankara.";
+    public String string9 = "Dar geldi ankara.";
 }
